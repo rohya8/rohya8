@@ -31,28 +31,20 @@ ___
 - [Instagram](https://instagram.com/rohya8) 😎
 - [LinkedIn](https://linkedin.com/in/rohit-wadke) 👨💼
 - [Blog](https://www.localguidesconnect.com/t5/user/viewprofilepage/user-id/812466) 🤓🌎 
-
 <br />
 
 ___
 
+### &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/rohya8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohya8&show_icons=true&include_all_commits=true" alt="Rohit's github stats" />
 </a>
-<br />
-<br />
+
 <a href="https://github.com/rohya8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohya8&layout=compact" />
 </a>
 
-### &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/rohya8/rohya8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohya8" />
-</a>
-<a href="https://github.com/rohya8/rohya8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohya8&show_icons=true&line_height=27&count_private=true" alt="Rohit's GitHub Stats" />
-</a>
 <br />
 
 ___
