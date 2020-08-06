@@ -21,7 +21,6 @@
 <code><img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 <br />
-<br />
 
 ---
 
@@ -32,7 +31,6 @@
 - [LinkedIn](https://linkedin.com/in/rohit-wadke) 👨💼
 - [Blog](https://www.localguidesconnect.com/t5/user/viewprofilepage/user-id/812466) 🤓🌎 
 
-<br />
 <br />
 
 ---
@@ -49,4 +47,7 @@
 <br />
 
 ---
+
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+
