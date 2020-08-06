@@ -8,11 +8,6 @@
 <h2 align="center">Hello there! My name is Rohit Wadke. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">I'm a Front End Web Developer</p>
 
-<br />
-<br />
-
----
-
 ### 💻 Languages and Tools: 
 
 <code><img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -51,4 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohya8&layout=compact" />
 </a>
 
+<br />
+
+---
 <h1 align='center'><i>Stay awesome!</i></h1>
