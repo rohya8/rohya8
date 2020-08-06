@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Rohit Wadke. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">I'm a Front End Web Developer</p>
+<p align="center">I'm a MEAN Stack Developer</p>
 
 ### 💻 Languages and Tools: 
 
@@ -23,7 +23,7 @@
 
 <br />
 
----
+___
 
 ### 📫 Where to find me
 - [Facebook](https://facebook.com/rohit.wadke) 😏
@@ -34,7 +34,7 @@
 
 <br />
 
----
+___
 
 <a href="https://github.com/rohya8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohya8&show_icons=true&include_all_commits=true" alt="Rohit's github stats" />
@@ -55,8 +55,9 @@
 </a>
 <br />
 
----
+___
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+
+<h1 align='center'><i>It’s not a bug. It’s an undocumented feature!</i></h1>
 
 
