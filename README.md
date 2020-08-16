@@ -35,8 +35,6 @@ ___
 
 ___
 
-### &#x1f4c8; GitHub Stats
-
 <details>
   <summary>:zap: Github Stats</summary>
   
@@ -45,9 +43,12 @@ ___
 </a>
 </details>
 
+<details>
+  <summary>:zap: Languages Used</summary>
 <a href="https://github.com/rohya8/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohya8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohya8&layout=compact&hide_border=true" />
 </a>
+</details>
 
 <br />
 
