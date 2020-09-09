@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Rohit Wadke. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">I'm a MEAN Stack Developer, but i am not mean 🤣</p>
+<p align="center">I'm a MEAN Stack Developer</p>
 
 ### 💻 Languages and Tools: 
 
