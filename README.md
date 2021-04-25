@@ -26,7 +26,6 @@
 ___
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/rohit.wadke) 😏
 - [Twitter](https://twitter.com/rohya8) 🐤
 - [Instagram](https://instagram.com/rohya8) 😎
 - [LinkedIn](https://linkedin.com/in/rohit-wadke) 👨💼
